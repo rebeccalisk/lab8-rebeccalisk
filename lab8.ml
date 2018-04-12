@@ -191,9 +191,9 @@ headlines, and observe what happens!
 ......................................................................*)
   
 (* .. *)
-fire_event newswire h1 ;;
+(* fire_event newswire h1 ;;
 fire_event newswire h2 ;;
-fire_event newswire h3 ;;
+fire_event newswire h3 ;; *)
 
 (* Imagine now that you work at Facebook, and you're growing concerned
 with the proliferation of fake news. To combat the problem, you decide
